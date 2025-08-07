@@ -74,9 +74,3 @@ This scraper is for educational purposes only. Do not use it to violate Amazonâ€
 
 Ali Badran
 
-```
-
----
-
-Let me know if you want it as a downloadable `README.md` file.
-```
