@@ -1,10 +1,3 @@
-Here's a `README.md` file for your Amazon web scraper project. It includes a description, usage instructions, requirements, and a disclaimer about the occasional failures:
-
----
-
-### 📄 README.md
-
-````markdown
 # 🛒 Amazon Egypt PS5 Games Web Scraper
 
 This is a Python-based web scraper that collects product data for **PS5 games from Amazon Egypt** (`amazon.eg`) using Selenium and BeautifulSoup. It extracts:
